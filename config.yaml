@@ -1,8 +1,8 @@
-baseurl: https://example.com
+baseurl: https://ssabum.github.io/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: Ssabum's Devlog
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -12,7 +12,7 @@ googleAnalytics:
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn
-DefaultContentLanguage: en
+DefaultContentLanguage: ko
 
 permalinks:
     post: /p/:slug/
@@ -26,7 +26,7 @@ params:
     favicon:
 
     footer:
-        since: 2020
+        since: 2021
         customText:
 
     dateFormat:
@@ -34,11 +34,11 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        emoji: 
+        subtitle: Beginner developer who wants to become... great data analyst
         avatar:
             local: true
-            src: img/avatar.png
+            src: img/image.jpg
 
     article:
         math: false
@@ -48,10 +48,10 @@ params:
 
     comments:
         enabled: true
-        provider: disqus
+        provider: utterances
 
         utterances:
-            repo:
+            repo: ssabum/comments
             issueTerm: pathname
             label:
 
@@ -109,6 +109,24 @@ menu:
           url: /
           weight: -100
           pre: home
+
+        - identifier: about
+          name: About
+          url: about
+          weight: -90
+          pre: user
+
+        - identifier: archives
+          name: Coding
+          url: archives
+          weight: -70
+          pre: archives
+
+        - identifier: search
+          name: Search
+          url: search
+          weight: -60
+          pre: search
 
 related:
     includeNewer: true
