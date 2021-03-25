@@ -34,8 +34,8 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 
-        subtitle: Beginner developer who wants to become... great data analyst
+        emoji: 💻
+        subtitle: Lazy beginner developer
         avatar:
             local: true
             src: img/image.jpg
@@ -43,7 +43,7 @@ params:
     article:
         math: false
         license:
-            enabled: true
+            enabled: false
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
@@ -109,24 +109,6 @@ menu:
           url: /
           weight: -100
           pre: home
-
-        - identifier: about
-          name: About
-          url: about
-          weight: -90
-          pre: user
-
-        - identifier: archives
-          name: Coding
-          url: archives
-          weight: -70
-          pre: archives
-
-        - identifier: search
-          name: Search
-          url: search
-          weight: -60
-          pre: search
 
 related:
     includeNewer: true
