@@ -23,7 +23,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: 
 
     footer:
         since: 2021
@@ -109,6 +109,12 @@ menu:
           url: /
           weight: -100
           pre: home
+
+        - identifier: github
+          name: Github
+          url: https://github.com/ssabum
+          weight: -50
+          pre: brand-github
 
 related:
     includeNewer: true
