@@ -2,7 +2,7 @@
 author = "Hugo Authors"
 title = "SQLD"
 date = "2021-03-26"
-description = "SQLD도전기"
+description = "나의 SQLD 도전기"
 categories = [
     "Diary"
 ]
@@ -10,7 +10,8 @@ tags = [
     "license", "sqld", "sql",
 
 ]
-image = "pmain.jpg"
+
+image = "sql.png"
 
 +++
 

@@ -2,7 +2,7 @@
 title: "Diary"
 description: "Diary category"
 slug: "diary"
-image: "white.jpg"
+image: "blue.jpg"
 style:
     background: "#2a9d8f"
     color: "#fff"
