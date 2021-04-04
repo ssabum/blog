@@ -15,7 +15,7 @@ image = "sql.png"
 
 +++
 
-SQLD란 무엇일까?
+# SQLD란 무엇일까?
 
 한국데이터산업진흥원에서 주관하는 시험으로, Structured  Query Language Developer의 줄임말로 데이터베이스 SQL국가공인 자격증이다😎
 
