@@ -1,3 +1,4 @@
++++
 author = "Hugo Authors"
 title = "SQL문법"
 date = "2021-04-04"
@@ -386,4 +387,3 @@ RENAME TO 새로운테이블명;
 ALTER TABLE 테이블명
 ADD COLUMN 컬럼명 datatype;
 ```
-
