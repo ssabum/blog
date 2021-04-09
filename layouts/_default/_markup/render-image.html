@@ -26,5 +26,13 @@
 		{{ end }}
 	</figure>
 {{- else -}}
-	<img src="{{ .Destination | relURL | safeURL }}" alt="{{ .Text }}" {{ with .Title }} title="{{ . }}"{{ end }} />
+	<div id="image">
+		<img src="{{ .Destination | relURL | safeURL }}" width="70%" alt="{{ .Text }}" {{ with .Title }} title="{{ . }}" {{ end }} />
+	</div>
+	<style>
+		#image {
+				display: flex;
+				justify-content: center;
+		}
+	</style>
 {{- end -}}
