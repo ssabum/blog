@@ -1,6 +1,6 @@
 +++
 author = "Hugo Authors"
-title = "내가 당신의 기사가 되어 줄게요...👸"
+title = "내가 당신의 기사가 되어 줄게요"
 date = "2021-04-12"
 description = "나의 정보처리기사 실기 도전기"
 categories = [
