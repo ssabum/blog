@@ -45,3 +45,10 @@ image = "big.png"
 ## 파일럿 프로젝트 구축 환경
 
 ![](project.png)
+
+---
+
+## 참고 문헌
+
+[실무로 배우는 빅데이터 기술](https://wikibook.co.kr/bigdata2nd/)
+
