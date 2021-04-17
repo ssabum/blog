@@ -2,7 +2,7 @@
 author = "Hugo Authors"
 title = "Big data pilot project"
 date = "2021-04-13"
-description = "빅데이터 첫번째 파일럿 프로젝트"
+description = "빅데이터 첫번째 파일럿 프로젝트 첫번째"
 categories = [
     "Big-data"
 ]
@@ -23,6 +23,12 @@ image = "big.png"
 >
 >빅데이터는 `수집` > `적재` > `처리` > `탐색` > `분석` > `응용`의 단계를 거친다.
 
+## 빅데이터 구현기술
+
+![](structure.PNG)
+
+
+
 ## 파일럿 프로젝트 소개
 
 다음과 같은 데이터를 가지고 빅데이터 프로젝트를 진행한다.
@@ -31,3 +37,11 @@ image = "big.png"
 2. 스마트카 운전자 운행 데이터셋
 3. 스마트카 마스터 데이터셋
 4. 스마트카 물품구매 이력 데이터셋
+
+## 소프트웨어 아키텍처
+
+![](sw.PNG)
+
+## 파일럿 프로젝트 구축 환경
+
+![](project.png)
