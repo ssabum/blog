@@ -4,7 +4,7 @@ title = "Big data pilot project"
 date = "2021-04-13"
 description = "빅데이터 첫번째 파일럿 프로젝트 첫번째"
 categories = [
-    "Big-data"
+    "Data"
 ]
 tags = [
     "big data", "리눅스", "centOS", "virtualbox",

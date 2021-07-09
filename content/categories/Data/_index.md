@@ -1,7 +1,7 @@
 ---
-title: "Big-data"
-description: "Big-data category"
-slug: "Big-data"
+title: "Data"
+description: "Data category"
+slug: "Data"
 image: "pink.jpg"
 style:
     background: "#2a9d8f"
