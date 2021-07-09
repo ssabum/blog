@@ -1,17 +1,17 @@
 +++
 author = "Hugo Authors"
-title = "titanic  review"
+title = "타이타닉 프로젝트 리뷰"
 date = "2021-07-10"
-description = "튜토리얼 타이타닉 데이터분석 프로젝트 후기"
+description = "타이타닉 데이터 분석 프로젝트 리뷰"
 categories = [
     "Data"
 ]
 tags = [
-    "data analysis", "데이터분석", "titanic", "후기"
+    "데이터 분석", "타이타닉", "리뷰", 
 
 ]
 
-image = "end.png"
+image = "end.jpg"
 
 +++
 

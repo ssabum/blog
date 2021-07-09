@@ -1,8 +1,8 @@
 +++
 author = "Hugo Authors"
-title = "Data analysis_titanic tutorial"
+title = "Data analysis 타이타닉"
 date = "2021-07-09"
-description = "데이터 분석 튜토리얼_타이타닉 생존률 예측"
+description = "데이터 분석 튜토리얼 타이타닉 생존률 예측"
 categories = [
     "Data"
 ]
