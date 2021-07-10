@@ -15,7 +15,7 @@ googleAnalytics: UA-194544565-1
 DefaultContentLanguage: ko
 
 permalinks:
-    post: /p/:slug/
+    post: /content/:slug/
     page: /:slug/
 
 params:
@@ -23,7 +23,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: toy.ico
+    favicon: favicon.ico
 
     footer:
         since: 2021
