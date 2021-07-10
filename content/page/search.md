@@ -6,3 +6,4 @@ outputs:
     - html
     - json
 ---
+
