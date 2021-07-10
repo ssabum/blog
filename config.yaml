@@ -104,23 +104,53 @@ params:
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
     main:
-        - identifier: home
-          name: Home
-          url: /
-          weight: -100
+#        - identifier: home
+#          name: Home
+#          url: /
+#          weight: -100
+#          pre: home
+
+        - identifier: algorithm
+          name: Algorithm
+          url: https://ssabum.github.io/categories/algorithm
+          weight: -90
+          pre: home
+
+        - identifier: data
+          name: Data
+          url: https://ssabum.github.io/categories/data
+          weight: -80
+          pre: home
+
+        - identifier: diary
+          name: Diary
+          url: https://ssabum.github.io/categories/diary
+          weight: -70
+          pre: home
+
+        - identifier: til
+          name: TIL
+          url: https://ssabum.github.io/categories/til
+          weight: -60
+          pre: home
+
+        - identifier: toy project
+          name: Toy project
+          url: https://ssabum.github.io/categories/toy-project
+          weight: -50
           pre: home
 
         - identifier: github
           name: Github
           url: https://github.com/ssabum
-          weight: -50
+          weight: -40
           pre: brand-github
 
-        - identifier: algorithm-study
-          name: AlgoStudy
-          url: https://github.com/ssabum/algorithm_study
-          weight: -40
-          pre: algorithm
+#        - identifier: algorithm-study
+#          name: AlgoStudy
+#          url: https://github.com/ssabum/algorithm_study
+#          weight: -40
+#          pre: algorithm
 
 related:
     includeNewer: true
