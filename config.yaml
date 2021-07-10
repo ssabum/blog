@@ -112,31 +112,31 @@ menu:
 
         - identifier: algorithm
           name: Algorithm
-          url: https://ssabum.github.io/categories/algorithm
+          url: https://ssabum.github.io/categories/algorithm/
           weight: -90
           pre: home
 
         - identifier: data
           name: Data
-          url: https://ssabum.github.io/categories/data
+          url: https://ssabum.github.io/categories/data/
           weight: -80
           pre: home
 
         - identifier: diary
           name: Diary
-          url: https://ssabum.github.io/categories/diary
+          url: https://ssabum.github.io/categories/diary/
           weight: -70
           pre: home
 
         - identifier: til
           name: TIL
-          url: https://ssabum.github.io/categories/til
+          url: https://ssabum.github.io/categories/til/
           weight: -60
           pre: home
 
         - identifier: toy project
           name: Toy project
-          url: https://ssabum.github.io/categories/toy-project
+          url: https://ssabum.github.io/categories/toy-project/
           weight: -50
           pre: home
 
