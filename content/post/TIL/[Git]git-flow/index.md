@@ -2,7 +2,7 @@
 author = "Hugo Authors"
 title = "[Git]git-flow"
 date = "2021-08-30"
-description = "[Git-flow] A successful git branching model"
+description = "Git-flow: A successful git branching model"
 categories = [
     "TIL"
 ]
